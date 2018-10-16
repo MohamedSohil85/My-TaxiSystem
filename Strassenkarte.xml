@@ -1,0 +1,84 @@
+<Strassenkarte>
+		<Strasse>Turingweg</Strasse>
+		<Strasse>Konrad-Zuse-Allee</Strasse>
+		<Strasse>Timbernersleestrasse</Strasse>
+		<Strasse>Snowdenpfad</Strasse>
+		<Strasse>Aschwartzstraße</Strasse>
+		<Strasse>Stallmangasse</Strasse>
+		<Strasse>Torvaldsplatz</Strasse>
+		<Strasse>Am Gatestor</Strasse>
+		<Strasse>Am Wozniakhang</Strasse>
+		<Strasse>Zum Babbagewehr</Strasse>
+		<Strasse>Dennis-Ritchie-Gedenkweg</Strasse>
+
+	<Strassenverbindung>
+		<Ausgang>Turingweg</Ausgang>
+		<Ziel>Konrad-Zuse-Allee</Ziel>
+		<Gewicht>3</Gewicht>
+	</Strassenverbindung>
+	<Strassenverbindung>
+		<Ausgang>Konrad-Zuse-Allee</Ausgang>
+		<Ziel>Torvaldsplatz</Ziel>
+		<Gewicht>1</Gewicht>
+	</Strassenverbindung>
+	<Strassenverbindung>
+		<Ausgang>Turingweg</Ausgang>
+		<Ziel>Torvaldsplatz</Ziel>
+		<Gewicht>8</Gewicht>
+	</Strassenverbindung>
+	<Strassenverbindung>
+		<Ausgang>Torvaldsplatz</Ausgang>
+		<Ziel>Am Wozniakhang</Ziel>
+		<Gewicht>4</Gewicht>
+	</Strassenverbindung>
+	<Strassenverbindung>
+		<Ausgang>Am Wozniakhang</Ausgang>
+		<Ziel>Zum Babbagewehr</Ziel>
+		<Gewicht>5</Gewicht>
+	</Strassenverbindung>
+	<Strassenverbindung>
+		<Ausgang>Konrad-Zuse-Allee</Ausgang>
+		<Ziel>Stallmangasse</Ziel>
+		<Gewicht>3</Gewicht>
+	</Strassenverbindung>
+	<Strassenverbindung>
+		<Ausgang>Konrad-Zuse-Allee</Ausgang>
+		<Ziel>Timbernersleestrasse</Ziel>
+		<Gewicht>4</Gewicht>
+	</Strassenverbindung>
+	<Strassenverbindung>
+		<Ausgang>Timbernersleestrasse</Ausgang>
+		<Ziel>Snowdenpfad</Ziel>
+		<Gewicht>5</Gewicht>
+	</Strassenverbindung>
+	<Strassenverbindung>
+		<Ausgang>Snowdenpfad</Ausgang>
+		<Ziel>Aschwartzstraße</Ziel>
+		<Gewicht>2</Gewicht>
+	</Strassenverbindung>
+	<Strassenverbindung>
+		<Ausgang>Aschwartzstraße</Ausgang>
+		<Ziel>Stallmangasse</Ziel>
+		<Gewicht>2</Gewicht>
+	</Strassenverbindung>
+	<Strassenverbindung>
+		<Ausgang>Aschwartzstraße</Ausgang>
+		<Ziel>Am Gatestor</Ziel>
+		<Gewicht>8</Gewicht>
+	</Strassenverbindung>
+	<Strassenverbindung>
+		<Ausgang>Am Gatestor</Ausgang>
+		<Ziel>Stallmangasse</Ziel>
+		<Gewicht>4</Gewicht>
+	</Strassenverbindung>
+	<Strassenverbindung>
+		<Ausgang>Am Gatestor</Ausgang>
+		<Ziel>Dennis-Ritchie-Gedenkweg</Ziel>
+		<Gewicht>12</Gewicht>
+	</Strassenverbindung>
+	<Strassenverbindung>
+		<Ausgang>Dennis-Ritchie-Gedenkweg</Ausgang>
+		<Ziel>Stallmangasse</Ziel>
+		<Gewicht>10</Gewicht>
+	</Strassenverbindung>
+</Strassenkarte>

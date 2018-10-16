@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="se.KundenlisteTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-01-09T08:33:47" hostname="hp-pavilion-g6" time="0.003">
+  <properties/>
+  <testcase name="testGetKundenliste" classname="se.KundenlisteTest" time="0.001"/>
+  <testcase name="testKundenListeAusgeben" classname="se.KundenlisteTest" time="0.0"/>
+  <testcase name="testKundenlisteSetKnr" classname="se.KundenlisteTest" time="0.0"/>
+  <testcase name="testKundehinzufuegen" classname="se.KundenlisteTest" time="0.0"/>
+  <system-out><![CDATA[getKundenliste
+Kundenliste listeAusgeben
+Kundenliste SetKnr
+getKnr
+2
+Kunden hinzufuegen
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

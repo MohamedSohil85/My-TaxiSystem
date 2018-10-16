@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="se.AuftragTest" tests="18" skipped="0" failures="0" errors="0" timestamp="2017-01-09T08:33:47" hostname="hp-pavilion-g6" time="0.01">
+  <properties/>
+  <testcase name="testGetAuftragsNr" classname="se.AuftragTest" time="0.0"/>
+  <testcase name="testSetTaxifahrer" classname="se.AuftragTest" time="0.0"/>
+  <testcase name="testSetAuftragsNr" classname="se.AuftragTest" time="0.0"/>
+  <testcase name="testGetTaxifahrer" classname="se.AuftragTest" time="0.0"/>
+  <testcase name="testSetTaxi" classname="se.AuftragTest" time="0.0"/>
+  <testcase name="testSetZielOrt" classname="se.AuftragTest" time="0.001"/>
+  <testcase name="testSetPreis" classname="se.AuftragTest" time="0.0"/>
+  <testcase name="testSetStartOrt" classname="se.AuftragTest" time="0.001"/>
+  <testcase name="testGetStatus" classname="se.AuftragTest" time="0.0"/>
+  <testcase name="testGetStartOrt" classname="se.AuftragTest" time="0.0"/>
+  <testcase name="testGetZielOrt" classname="se.AuftragTest" time="0.0"/>
+  <testcase name="testSetDatum" classname="se.AuftragTest" time="0.0"/>
+  <testcase name="testSetStatus" classname="se.AuftragTest" time="0.001"/>
+  <testcase name="testGetKunde" classname="se.AuftragTest" time="0.001"/>
+  <testcase name="testGetDatum" classname="se.AuftragTest" time="0.0"/>
+  <testcase name="testGetPreis" classname="se.AuftragTest" time="0.001"/>
+  <testcase name="testSetKunde" classname="se.AuftragTest" time="0.001"/>
+  <testcase name="testGetTaxi" classname="se.AuftragTest" time="0.0"/>
+  <system-out><![CDATA[getAuftragsNr
+setTaxifahrer
+setAuftragsNr
+getTaxifahrer
+setTaxi
+Es konnte kein Taxifahrer zugeordnet werden
+setZielOrt
+setPreis
+setStartOrt
+getStatus
+getStartOrt
+getZielOrt
+setDatum
+setStatus
+getKunde
+getDatum
+getPreis
+setKunde
+getTaxi
+Es konnte kein Taxifahrer zugeordnet werden
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="se.TaxilisteTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-01-09T08:33:47" hostname="hp-pavilion-g6" time="0.003">
+  <properties/>
+  <testcase name="testTaxiHinzufuegen" classname="se.TaxilisteTest" time="0.001"/>
+  <testcase name="testTaxilisteAusgeben" classname="se.TaxilisteTest" time="0.001"/>
+  <testcase name="testTaxisetNr" classname="se.TaxilisteTest" time="0.0"/>
+  <testcase name="testgetTaxiliste" classname="se.TaxilisteTest" time="0.001"/>
+  <system-out><![CDATA[Es konnte kein Taxifahrer zugeordnet werden
+Taxi hinzufuegen
+Taxihinzufuegen
+Es konnte kein Taxifahrer zugeordnet werden
+Taxiliste listeAusgeben
+Es konnte kein Taxifahrer zugeordnet werden
+Taxiliste setNr
+getNr
+2
+Es konnte kein Taxifahrer zugeordnet werden
+getTaxiliste
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

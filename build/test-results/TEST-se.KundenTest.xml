@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="se.KundenTest" tests="17" skipped="0" failures="0" errors="0" timestamp="2017-01-09T08:33:47" hostname="hp-pavilion-g6" time="0.008">
+  <properties/>
+  <testcase name="testSetKundenName" classname="se.KundenTest" time="0.0"/>
+  <testcase name="testGetKundenname" classname="se.KundenTest" time="0.0"/>
+  <testcase name="testSetKundenVorname" classname="se.KundenTest" time="0.0"/>
+  <testcase name="testGetKundenVorname" classname="se.KundenTest" time="0.0"/>
+  <testcase name="testSetKundenStrasse" classname="se.KundenTest" time="0.0"/>
+  <testcase name="testchangeKundenVorname" classname="se.KundenTest" time="0.001"/>
+  <testcase name="testChangeKundenName" classname="se.KundenTest" time="0.0"/>
+  <testcase name="testGetKundenStrasse" classname="se.KundenTest" time="0.0"/>
+  <testcase name="testchangekundenOrt" classname="se.KundenTest" time="0.0"/>
+  <testcase name="testchangekundenStrasse" classname="se.KundenTest" time="0.0"/>
+  <testcase name="testGetKundenHausnummer" classname="se.KundenTest" time="0.0"/>
+  <testcase name="testSetKundenHausnummer" classname="se.KundenTest" time="0.0"/>
+  <testcase name="testchangeKundenHausnummer" classname="se.KundenTest" time="0.0"/>
+  <testcase name="testGetKundenOrt" classname="se.KundenTest" time="0.0"/>
+  <testcase name="testGetKundenNr" classname="se.KundenTest" time="0.0"/>
+  <testcase name="testSetKundenNr" classname="se.KundenTest" time="0.001"/>
+  <testcase name="testSetKundenOrt" classname="se.KundenTest" time="0.0"/>
+  <system-out><![CDATA[setKundenName
+getKundenName
+setKundenVorname
+getKundenVorname
+setKundenStrasse
+changeKundenVorname
+changeKundenName
+getKundenStrasse
+changekundenOrt
+changekundenStrasse
+getKundenHausnummer
+setKundenHausnummer
+changeKundenHausnummer
+getKundenOrt
+getKundenNr
+setKundenNr
+setKundenOrt
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

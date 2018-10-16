@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="se.AuftragslisteTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-01-09T08:33:47" hostname="hp-pavilion-g6" time="0.008">
+  <properties/>
+  <testcase name="testGetAuftragsliste" classname="se.AuftragslisteTest" time="0.008"/>
+  <testcase name="testAuftragHinzufuegen" classname="se.AuftragslisteTest" time="0.0"/>
+  <system-out><![CDATA[Es konnte kein Taxifahrer zugeordnet werden
+getAuftragsliste
+Es konnte kein Taxifahrer zugeordnet werden
+auftragHinzufuegen
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
